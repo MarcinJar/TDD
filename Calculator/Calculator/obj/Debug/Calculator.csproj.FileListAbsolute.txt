@@ -1,0 +1,4 @@
+C:\Users\marcin.jarmulowski\Documents\Visual Studio 2015\Projects\TDD\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\marcin.jarmulowski\Documents\Visual Studio 2015\Projects\TDD\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\marcin.jarmulowski\Documents\Visual Studio 2015\Projects\TDD\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\marcin.jarmulowski\Documents\Visual Studio 2015\Projects\TDD\Calculator\Calculator\obj\Debug\Calculator.pdb
